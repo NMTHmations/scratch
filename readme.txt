@@ -1,4 +1,4 @@
-Kaffka Mercédesz, és a varangyfejű Jutka kalandjai következnek.
+Kaffka Mercédesz, és Szedunka Jutka kalandjai következnek.
 
 Irányítás:
 Egérrel irányítod a 2 karaktert
